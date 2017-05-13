@@ -1,0 +1,71 @@
+body {
+
+}
+
+header {
+  background: url('../images/slobeach.jpg');
+  min-height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 30px;
+
+}
+
+body{
+  font-family: oswald;
+}
+
+header .container {
+
+}
+
+.logo{
+  padding-top: 30px;
+  width: 40%;
+  float: left;
+  padding-left: 40px;
+  font-style: italic;
+  font-family: 'Pacifico', cursive;
+
+}
+
+h1{
+  font-size: 30px;
+}
+
+nav{
+  float: right;
+  width: 60%;
+  font-family: oswald;
+}
+
+nav ul{
+  float: right;
+}
+
+nav li{
+  display: inline-block;
+  padding-right: 20px;
+}
+
+nav li a{
+  color: yellow;
+}
+
+#section{
+  padding: 100px;
+}
+
+#about{
+  background: blue;
+}
+
+#education{
+  background: teal;
+
+}
+
+#experience{
+
+}
