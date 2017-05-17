@@ -20,6 +20,14 @@ header .container {
 
 }
 
+bio{
+  float: left;
+}
+
+.headshot{
+  float: right;
+}
+
 .logo{
   padding-top: 30px;
   width: 40%;
@@ -49,6 +57,16 @@ nav li{
   padding-right: 20px;
 }
 
+.bio, .profile {
+  flex: 1;
+}
+
+#about .container{
+    display: flex;
+
+
+}
+
 nav li a{
   color: yellow;
 }
@@ -58,7 +76,8 @@ nav li a{
 }
 
 #about{
-  background: blue;
+  background: ;
+  display: flex;
 }
 
 #education{
