@@ -1,2 +1,4 @@
-# gdi-resume-example
-Resume example GDI
+# gdi
+Girl Develop It workshop 
+# resume-example
+Resume practice
